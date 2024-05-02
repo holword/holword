@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @holword
 - 👀 I’m interested in: Data Analysis
 - 🌱 I’m currently learning: Java/R
-- 📫 How to reach me: DM
+- 📫 How to reach me: Not Available
 - ⚡ Fun fact: 111,111,111 x 111,111,111 = 12,345,678,987,654,321
 
 
